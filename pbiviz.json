@@ -1,0 +1,20 @@
+{
+  "visual": {
+    "name": "circleCard",
+    "displayName": "CircleCard",
+    "guid": "circleCard6D5FDB7B9F0B4001A761E234CE42AC91",
+    "visualClassName": "Visual",
+    "version": "1.0.0",
+    "description": "test",
+    "supportUrl": "n/a",
+    "gitHubUrl": "n/a"
+  },
+  "apiVersion": "2.6.0",
+  "author": { "name": "klai", "email": "klai@numerix.com" },
+  "assets": { "icon": "assets/icon.png" },
+  "externalJS": [],
+  "style": "style/visual.less",
+  "capabilities": "capabilities.json",
+  "dependencies": null,
+  "stringResources": []
+}
